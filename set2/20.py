@@ -4,4 +4,4 @@ try:
   for i in range(1,6):
     print(a*i,end=" ")
 except:
-  print("invalid code")
+  print("invalid input")
